@@ -8,7 +8,6 @@ pkg update && pkg upgrade<br>
 pkg install php<br>
 pkg install git<br>
 git clone https://github.com/noe999x/tembaktri<br>
-rm -rf tembaktri<br>
 cd tembaktri<br>
 php tembaktri.php<br><br>
 
