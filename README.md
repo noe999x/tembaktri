@@ -19,5 +19,3 @@ php tembaktri.php<br><br>
 [![Messenger](https://img.shields.io/badge/Massenger-Me-blue?style=for-the-badge&logo=messenger)](https://m.me/bagasekaapr)
 [![Facebook](https://img.shields.io/badge/Facebook-noe999x-red?style=for-the-badge&logo=facebook)](https://m.facebook.com/noe999x)
 > <b>Adios.!</b>
-
-> Hargai k4ry4 s4y4:( fuckin' hell. Tinggal pake aja ribet, script kiddie bacot, paket koid nangis lu gabisa updatenya, taunya cuma pake dan jual, ini script gabakal gua update, udh dikasih source kodenya tinggal pake, error fix sendiri.<br>The choice is yours.!
