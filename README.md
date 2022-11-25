@@ -1,3 +1,10 @@
+<div align="center">
+<h1>• tembaktri •</h1>
+	<img src="https://media.tenor.com/tHrhZhnbhVEAAAAC/nancy-momoland.gif" alt="mommy"/>
+</p>
+	<br>
+</div>
+
 # Deskripsi 
 Sebuah tools untuk crott paket tri murah.
 
